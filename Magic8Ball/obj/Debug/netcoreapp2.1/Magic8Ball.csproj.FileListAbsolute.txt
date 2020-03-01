@@ -1,0 +1,16 @@
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\Magic8Ball.deps.json
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\Magic8Ball.runtimeconfig.json
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\Magic8Ball.runtimeconfig.dev.json
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\Magic8Ball.dll
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.csprojAssemblyReference.cache
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.RazorAssemblyInfo.cache
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.RazorAssemblyInfo.cs
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.AssemblyInfoInputs.cache
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.AssemblyInfo.cs
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.RazorTargetAssemblyInfo.cache
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.1\Magic8Ball.pdb
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.dll
+C:\Users\Lennert\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.1\Magic8Ball.pdb
